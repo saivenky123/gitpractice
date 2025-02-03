@@ -1,0 +1,4 @@
+Pratcoing the github
+#!/bin/bash
+touch file
+echo "helloworld"
